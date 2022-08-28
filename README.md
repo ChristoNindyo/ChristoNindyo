@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristoNindyo
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, R, SQL and Data Science
+- 👀 I’m interested in Data Science, especially Machine Learning
+- 🌱 I’m currently learning Python, R, and SQL
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me to e-mail : christonindyo@gmail.com
 
